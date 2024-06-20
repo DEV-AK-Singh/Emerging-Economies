@@ -1,0 +1,62 @@
+[
+  {
+    "title": "GDP Per Capita (PPP)",
+    "paragraph": "This indicator provides per capita values for the gross domestic product (GDP expressed in current international dollars converted by purchasing power parity (PPP) conversion factor. GDP is the sum of gross value added by all resident producers in the country plus any product taxes and minus any subsidies not included in the value of the products. The conversion factor is a spatial price deflator and currency converter controlling price level differences between countries.",
+    "url": "https://databank.worldbank.org/reports.aspx?source=2&type=metadata&series=NY.GDP.MKTP.PP.CD"
+  },
+  {
+    "title": "Human Development Index",
+    "paragraph": "The Human Development Index (HDI) is a summary measure of average achievement in key dimensions of human development: a long and healthy life, education level, and decent standard of living. The HDI is the geometric mean of normalized indices for each of the three dimensions. The health dimension is assessed by life expectancy at birth; the education dimension is measured by the mean years of schooling for adults aged 25 years and more and expected years of schooling for children of school entering age. The standard of living dimension is measured by gross national income per capita.",
+    "url": "https://hdr.undp.org/data-center/human-development-index#/indicies/HDI"
+  },
+  {
+    "title": "Country Real GDP (% of World GDP)",
+    "paragraph": "This indicator provides a comparative metric to analyze the progress of an economy relative to other economies. In addition to the absolute growth, it also captures the gain relative to other emerging economies by comparing their share of world GDP.",
+    "url": "https://databank.worldbank.org/reports.aspx?source=2&type=metadata&series=NY.GDP.MKTP.KD"
+  },
+  {
+    "title": "Market Capitalization (% of GDP)",
+    "paragraph": "The development of an economy&#39;s financial markets is closely related to its overall development. Well-functioning financial systems provide good and easily accessible information that can lower transaction costs, improve resource allocation, and boost economic growth. Market capitalization (also known as market value) is the share price times the number of shares outstanding (including their several classes) for listed domestic companies. Investment funds, unit trusts, and companies whose only business goal is to hold shares of other listed companies are excluded. Data are end-of-year values.",
+    "url": "https://databank.worldbank.org/reports.aspx?source=2&amp;type=metadata&amp;series=CM.MKT.LCAP.GD.ZS"
+  },
+  {
+    "title": "General Government Fiscal Balance (% of GDP)",
+    "paragraph": "General government fiscal balance is the difference between general government revenues and expenditures, showing how much government spending is financed by the revenues collected each year. a surplus occurs if, each year, the government collects more revenues than it spends. Conversely, when the government spends more than it receives in revenues, there is a deficit. Consecutive deficits will increase debt levels and, consequently, higher interest payments.",
+    "url": "https://data.imf.org/?sk=757a72b7-eece-470e-b6a1-d96b04b7014a"
+  },
+  {
+    "title": "General Government Gross Debt (% of GDP)",
+    "paragraph": "Gross debt represents all the liabilities that require future payment of interest and/ or principal by the debtor. The liabilities here include all debt liabilities in the form of special drawing rights, currency and deposits, debt securities, loans, pension, and standardized guarantee schemes, and other accounts payable.",
+    "url": "https://data.imf.org/?sk=757a72b7-eece-470e-b6a1-d96b04b7014a&amp;sId=1420755982661"
+  },
+  {
+    "title": "Consumer Price Index (CPI) Inflation",
+    "paragraph": "Inflation is proxied by the year-to-year change in the consumer price index (CPI). Governments and central banks also use CPI to set inflation targets for monetary policy purposes. Consumer Price Index (CPI) measures changes in the prices of goods and services purchased or otherwise acquired by households, which households use directly, or indirectly to satisfy their needs and wants.",
+    "url": "https://data.imf.org/?sk=4FFB52B2-3653-409A-B471-D47B46D904B5"
+  },
+  {
+    "title": "Indian Rupee Exchange Rates (Monthly Average)",
+    "paragraph": "An exchange rate is the value of one nation's currency versus another nation's or economic zone's currency. For example, a data point on this graph shows how many Indian Rupees (INR) it takes to buy one currency unit of USD, GBP and EUR respectively.",
+    "url": "https://data.imf.org/?sk=4c514d48-b6ba-49ed-8ab9-52b0c1a0179b"
+  },
+  {
+    "title": "Exports of Goods and Services (% of GDP)",
+    "paragraph": "Exports of goods and services represent the value of all goods and other market services provided to the rest of the world. They include the value of merchandise, freight, insurance, transport, travel, royalties, license fees, and other services, such as communication, construction, financial, information, business, personal, and government services. They exclude compensation of employees and investment income (formerly called factor services) and transfer payments.",
+    "url": "https://data.worldbank.org/indicator/NE.EXP.GNFS.ZS"
+},
+{
+    "title": "Commercial Bank Deposits (% of GDP)",
+    "paragraph": "Commercial bank deposits refer to the total amount of all types of outstanding deposits (including accrued interest) of resident nonfinancial corporations and individuals from the household sector.",
+    "url": "https://data.imf.org/api/document/download?key=60927737"
+},
+  {
+    "title": "Domestic Credit to Private Sector (% of GDP)",
+    "paragraph": "This indicator refers to financial resources provided to the private sector by financial corporations, such as loans, purchases of nonequity securities, trade credits, and other accounts receivable that establish a claim for repayment.",
+    "url": "https://data.worldbank.org/indicator/FS.AST.PRVT.GD.ZS"
+  },
+  {
+    "title": "Commercial Bank Branches (Per 100,000 Adults)",
+    "paragraph": "This indicator is calculated as the total number of commercial banks and their branches for every 100,000 adult population.",
+    "url": "https://data.imf.org/?sk=E5DCAB7E-A5CA-4892-A6EA-598B5463A34C&sId=1460054136937"
+  }
+]
