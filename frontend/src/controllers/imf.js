@@ -1,5 +1,7 @@
+import { BASE_URL } from "../Constant";
+
 const fetchIMFData = async (indicator) => {
-    const data = await fetch(`${process.env.BASE_URL}/imf`, {
+    const data = await fetch(`${BASE_URL}/imf`, {
       method: "POST",
       body: JSON.stringify({ indicator }),
       headers: { "Content-Type": "application/json" },

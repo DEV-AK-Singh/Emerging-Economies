@@ -1,0 +1,1 @@
+export const BASE_URL = "http://emerging-economics.dreel.co";
