@@ -70,7 +70,7 @@ app.post("/imf", (req, res) => {
   const indicator = req.body.indicator;
   const url = `https://www.imf.org/external/datamapper/api/v1/${indicator}/${countries}/?periods=${dates}`;
 
-  fetch(url)
+  fetch(url,{method:"GET",headers:{"Content-Type":"application/json"}})
     .then((response) => {
       return response.json();
     })

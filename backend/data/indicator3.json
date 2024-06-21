@@ -1,0 +1,879 @@
+{
+    "code": 1,
+    "response": [
+      {
+        "page": 1,
+        "pages": 1,
+        "per_page": 2000,
+        "total": 54,
+        "sourceid": "2",
+        "lastupdated": "2024-05-30"
+      },
+      [
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2022",
+          "value": 41.3738683600635,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2021",
+          "value": 49.4583785563564,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2020",
+          "value": 66.9581653089287,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2019",
+          "value": 63.3838235201946,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2018",
+          "value": 47.827647627193,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2017",
+          "value": 46.2664487772856,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2016",
+          "value": 42.2432294466088,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2015",
+          "value": 27.2184434286181,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2014",
+          "value": 34.3599012775913,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2022",
+          "value": 63.84922675418,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2021",
+          "value": 81.0161272375064,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2020",
+          "value": 83.5851042469326,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2019",
+          "value": 60.0107216360713,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2018",
+          "value": 45.5194077187937,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2017",
+          "value": 70.7629531889935,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2016",
+          "value": 65.1698915881801,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2015",
+          "value": 74.0221992145652,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2014",
+          "value": 57.3230494785238,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2022",
+          "value": 105.468422137013,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2021",
+          "value": 114.223000607137,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2020",
+          "value": 97.1502774095917,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2019",
+          "value": 80.6502829957078,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2018",
+          "value": 84.4383990536997,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2017",
+          "value": 96.3987783875764,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2016",
+          "value": 76.0981248573669,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2015",
+          "value": 82.9615370849602,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2014",
+          "value": 82.7172077949354,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2022",
+          "value": 30.9969753006708,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2021",
+          "value": 35.0238077555826,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2020",
+          "value": 35.6564681572083,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2019",
+          "value": 31.6897690108028,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2018",
+          "value": 30.6496357491186,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2017",
+          "value": 35.0225076493385,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2016",
+          "value": 31.5409987600557,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2015",
+          "value": 33.1538048483564,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2014",
+          "value": 35.1955004617103,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2022",
+          "value": 36.3801469488833,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2021",
+          "value": 16.8802421349792,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2020",
+          "value": 32.9669482613704,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2019",
+          "value": 24.305468410679,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2018",
+          "value": 19.1616029496491,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2017",
+          "value": 26.4860148759569,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2016",
+          "value": 19.7502952781292,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2015",
+          "value": 21.8510785911793,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2014",
+          "value": 23.4055234330481,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2022",
+          "value": 289.127167599803,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2021",
+          "value": 272.067354939486,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2020",
+          "value": 310.835168246289,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2019",
+          "value": 271.322875857721,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2018",
+          "value": 213.523689561575,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2017",
+          "value": 322.710975288933,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2016",
+          "value": 293.993488633205,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2015",
+          "value": 212.265471080764,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "CM.MKT.LCAP.GD.ZS",
+            "value": "Market capitalization of listed domestic companies (% of GDP)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2014",
+          "value": 244.998286733782,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        }
+      ]
+    ]
+  }

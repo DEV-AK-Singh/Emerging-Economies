@@ -1,1 +1,1 @@
-export const BASE_URL = "http://emerging-economics.dreel.co";
+export const BASE_URL = "https://emerging-economics.dreel.co";

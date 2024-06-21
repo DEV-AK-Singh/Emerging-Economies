@@ -1,0 +1,879 @@
+{
+    "code": 1,
+    "response": [
+      {
+        "page": 1,
+        "pages": 1,
+        "per_page": 2000,
+        "total": 54,
+        "sourceid": "2",
+        "lastupdated": "2024-05-30"
+      },
+      [
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2022",
+          "value": 1901461002548.22,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2021",
+          "value": 1847863165699.6,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2020",
+          "value": 1760056587883.53,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2019",
+          "value": 1819683217790.43,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2018",
+          "value": 1797736845059.11,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2017",
+          "value": 1766233131755.03,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2016",
+          "value": 1743173232503.86,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2015",
+          "value": 1802212206904.68,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2014",
+          "value": 1868463501755.79,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2022",
+          "value": 16325084918817.2,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2021",
+          "value": 15851276922881.8,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2020",
+          "value": 14616413683107.3,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2019",
+          "value": 14296369668095.8,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2018",
+          "value": 13493442283238.1,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2017",
+          "value": 12640253743683.8,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2016",
+          "value": 11819153423314,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2015",
+          "value": 11061572618594.8,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2014",
+          "value": 10333926843387.4,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2022",
+          "value": 2961515505727.63,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2021",
+          "value": 2761585207048.94,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2020",
+          "value": 2532396303804.96,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2019",
+          "value": 2689205295812.53,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2018",
+          "value": 2588974770209.97,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2017",
+          "value": 2432016068562.02,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2016",
+          "value": 2277267041515.54,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2015",
+          "value": 2103588360066.32,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2014",
+          "value": 1947834564844.19,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2022",
+          "value": 1284907941291.86,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2021",
+          "value": 1236698568609.36,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2020",
+          "value": 1168484439054.37,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2019",
+          "value": 1279151326624.44,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2018",
+          "value": 1282719194430.88,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2017",
+          "value": 1257912134256.87,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2016",
+          "value": 1234800029873.99,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2015",
+          "value": 1213294467527.59,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2014",
+          "value": 1181370028505.37,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2022",
+          "value": 1194401648109.12,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2021",
+          "value": 1131775214457.33,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2020",
+          "value": 1015597149114.51,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2019",
+          "value": 997053551434.226,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2018",
+          "value": 988958668236.331,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2017",
+          "value": 960031200973.599,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2016",
+          "value": 893035686216.222,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2015",
+          "value": 864313810469.009,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2014",
+          "value": 814741000960.492,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2022",
+          "value": 360706580601.809,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2021",
+          "value": 353944797356.9,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2020",
+          "value": 338046271407.903,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2019",
+          "value": 359483563933.709,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2018",
+          "value": 358551560864.878,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2017",
+          "value": 353055253705.882,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2016",
+          "value": 349013858372.625,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2015",
+          "value": 346709790458.563,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.KD",
+            "value": "GDP (constant 2015 US$)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2014",
+          "value": 342186555600.731,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        }
+      ]
+    ]
+  }

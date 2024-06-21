@@ -1,0 +1,879 @@
+{
+    "code": 1,
+    "response": [
+      {
+        "page": 1,
+        "pages": 1,
+        "per_page": 2000,
+        "total": 54,
+        "sourceid": "2",
+        "lastupdated": "2024-05-30"
+      },
+      [
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2022",
+          "value": 17874.329460837,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2021",
+          "value": 17450.5086501913,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2020",
+          "value": 16709.3883241022,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2019",
+          "value": 17390.7589866621,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2018",
+          "value": 17313.1475383868,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2017",
+          "value": 17145.3055427384,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2016",
+          "value": 17056.0518054948,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2015",
+          "value": 17777.3542667323,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2014",
+          "value": 18587.4544889355,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2022",
+          "value": 21019.4572309105,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2021",
+          "value": 20406.7296584605,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2020",
+          "value": 18833.7847034143,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2019",
+          "value": 18465.2989452744,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2018",
+          "value": 17490.1667300895,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2017",
+          "value": 16461.0699298081,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2016",
+          "value": 15485.2130054,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2015",
+          "value": 14575.9347897756,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2014",
+          "value": 13696.517494767,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2022",
+          "value": 8568.58749567265,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2021",
+          "value": 8044.67480751057,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2020",
+          "value": 7436.07877672902,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2019",
+          "value": 7972.32032754259,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2018",
+          "value": 7754.27981914407,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2017",
+          "value": 7363.81998926714,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2016",
+          "value": 6975.40611267983,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2015",
+          "value": 6520.22955885091,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2014",
+          "value": 6109.59926031888,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2022",
+          "value": 21809.5928486565,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2021",
+          "value": 21123.6718346798,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2020",
+          "value": 20070.4920941741,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2019",
+          "value": 22131.7315094332,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2018",
+          "value": 22385.2085435731,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2017",
+          "value": 22162.2016475114,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2016",
+          "value": 21991.3269091997,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2015",
+          "value": 21854.5865327363,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2014",
+          "value": 21529.333279763,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2022",
+          "value": 33061.0611547019,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2021",
+          "value": 31637.5305444616,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2020",
+          "value": 28649.5552028865,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2019",
+          "value": 28400.7120350239,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2018",
+          "value": 28575.772502049,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2017",
+          "value": 28117.9600270112,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2016",
+          "value": 26497.140816691,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2015",
+          "value": 25992.3031106142,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2014",
+          "value": 24830.5805632489,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2022",
+          "value": 14322.330282675,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2021",
+          "value": 14172.5442513912,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2020",
+          "value": 13671.8314306317,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2019",
+          "value": 14717.7622732356,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2018",
+          "value": 14870.9528574815,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2017",
+          "value": 14823.5515243781,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2016",
+          "value": 14710.7288235046,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2015",
+          "value": 14756.3512067748,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.PCAP.PP.KD",
+            "value": "GDP per capita, PPP (constant 2021 international $)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2014",
+          "value": 14869.0479011106,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        }
+      ]
+    ]
+  }

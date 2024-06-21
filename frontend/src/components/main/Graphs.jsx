@@ -28,62 +28,62 @@ export default function Graphs() {
 
   useEffect(() => {
     fetchWorldBankData("NY.GDP.MKTP.KD").then((res) => {
-      console.log("data-1:",res)
+      // console.log("data-1:",res)
       setData1(res);
     });
 
     fetchWorldBankData("NY.GDP.PCAP.PP.KD").then((res) => {
-      console.log("data-2:",res)
+      // console.log("data-2:",res)
       setData2(res);
     });
 
     fetchWorldBankData("CM.MKT.LCAP.GD.ZS").then((res) => {
-      console.log("data-3:",res)
+      // console.log("data-3:",res)
       setData3(res);
     });
 
     fetchWorldBankData("NE.EXP.GNFS.ZS").then((res) => {
-      console.log("data-4:",res)
+      // console.log("data-4:",res)
       setData4(res);
     });
 
     fetchWorldBankData("FS.AST.PRVT.GD.ZS").then((res) => {
-      console.log("data-5:",res)
+      // console.log("data-5:",res)
       setData5(res);
     });
 
     fetchWorldBankGroupData("IMF.CPI", "IMF.CPI.PCPI_PC_CP_A_PT").then((res) => {
-      console.log("data-6:",res)
+      // console.log("data-6:",res)
       setData6(res);
     });
 
     fetchWorldBankGroupData("IMF.IFS", "IMF.IFS.ENDA_XDC_USD_RATE").then((res) => {
-      console.log("data-7:",res)
+      // console.log("data-7:",res)
       setData7(res);
     });
 
     fetchWorldBankGroupData("IMF.FAS", "IMF.FAS.FCLODCG_GDP_PT").then((res) => {
-      console.log("data-8:",res)
+      // console.log("data-8:",res)
       setData8(res);
     });
 
     fetchWorldBankGroupData("IMF.FAS", "IMF.FAS.FCBODCA_NUM").then((res) => {
-      console.log("data-9:",res)
+      // console.log("data-9:",res)
       setData9(res);
     });
 
     fetchIMFData("GGXCNL_G01_GDP_PT").then((res) => {
-      console.log("data-10:",res)
+      // console.log("data-10:",res)
       setData10(res);
     });
 
     fetchIMFData("G_XWDG_G01_GDP_PT").then((res) => {
-      console.log("data-11:",res)
+      // console.log("data-11:",res)
       setData11(res);
     });
 
     fetchUNDPData("hdi").then((res) => {
-      console.log("data-12:",res)
+      // console.log("data-12:",res)
       setData12(res);
     });
 

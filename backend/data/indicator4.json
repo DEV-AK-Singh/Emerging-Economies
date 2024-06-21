@@ -1,0 +1,879 @@
+{
+    "code": 1,
+    "response": [
+      {
+        "page": 1,
+        "pages": 1,
+        "per_page": 2000,
+        "total": 54,
+        "sourceid": "2",
+        "lastupdated": "2024-05-30"
+      },
+      [
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2022",
+          "value": 20.0455368597898,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2021",
+          "value": 19.5616773567725,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2020",
+          "value": 16.4535520041337,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2019",
+          "value": 14.1229191903622,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2018",
+          "value": 14.6349994952986,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2017",
+          "value": 12.5189678700669,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2016",
+          "value": 12.4666790443888,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2015",
+          "value": 12.9001914177405,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "BR",
+            "value": "Brazil"
+          },
+          "countryiso3code": "BRA",
+          "date": "2014",
+          "value": 11.0119428225147,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2022",
+          "value": 20.6770017470271,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2021",
+          "value": 19.9439738309693,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2020",
+          "value": 18.5861391980346,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2019",
+          "value": 18.4099923152133,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2018",
+          "value": 19.1121035365691,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2017",
+          "value": 19.6922769879798,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2016",
+          "value": 19.5843800536192,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2015",
+          "value": 21.3540798825634,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "CN",
+            "value": "China"
+          },
+          "countryiso3code": "CHN",
+          "date": "2014",
+          "value": 23.5100609081912,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2022",
+          "value": 22.7868820072667,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2021",
+          "value": 21.5143885988197,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2020",
+          "value": 18.7052473571499,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2019",
+          "value": 18.6642648968953,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2018",
+          "value": 19.9278285984011,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2017",
+          "value": 18.7917648394481,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2016",
+          "value": 19.1582349104292,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2015",
+          "value": 19.8131891561946,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "IN",
+            "value": "India"
+          },
+          "countryiso3code": "IND",
+          "date": "2014",
+          "value": 22.9679630072592,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2022",
+          "value": 42.6438025364865,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2021",
+          "value": 40.6786594246585,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2020",
+          "value": 39.2466291584181,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2019",
+          "value": 38.4969936548922,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2018",
+          "value": 39.0439304387032,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2017",
+          "value": 37.5140886182228,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2016",
+          "value": 36.8156772532543,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2015",
+          "value": 34.1627726926537,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "MX",
+            "value": "Mexico"
+          },
+          "countryiso3code": "MEX",
+          "date": "2014",
+          "value": 31.4629922034573,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2022",
+          "value": 38.5842021257178,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2021",
+          "value": 35.7436948119262,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2020",
+          "value": 29.1207898635811,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2019",
+          "value": 33.0742147083823,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2018",
+          "value": 31.2326925586374,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2017",
+          "value": 26.0394223439924,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2016",
+          "value": 23.0835091311263,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2015",
+          "value": 24.5312773389092,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "TR",
+            "value": "Turkiye"
+          },
+          "countryiso3code": "TUR",
+          "date": "2014",
+          "value": 25.2055416974053,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2022",
+          "value": 33.5384457911339,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2021",
+          "value": 31.1113198464211,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2020",
+          "value": 27.5273512950695,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2019",
+          "value": 27.2021294049063,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2018",
+          "value": 27.4970371511922,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2017",
+          "value": 27.3400757806733,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2016",
+          "value": 28.1560881698955,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2015",
+          "value": 27.7136384124829,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        },
+        {
+          "indicator": {
+            "id": "NE.EXP.GNFS.ZS",
+            "value": "Exports of goods and services (% of GDP)"
+          },
+          "country": {
+            "id": "ZA",
+            "value": "South Africa"
+          },
+          "countryiso3code": "ZAF",
+          "date": "2014",
+          "value": 29.0006193033471,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 1
+        }
+      ]
+    ]
+  }
