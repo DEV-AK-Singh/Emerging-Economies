@@ -1,5 +1,5 @@
 const fetchIMFData = async (indicator) => {
-    const data = await fetch(`http://localhost:8000/imf`, {
+    const data = await fetch(`${process.env.BASE_URL}/imf`, {
       method: "POST",
       body: JSON.stringify({ indicator }),
       headers: { "Content-Type": "application/json" },

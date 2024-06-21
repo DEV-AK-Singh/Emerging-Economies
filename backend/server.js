@@ -3,6 +3,7 @@ const cors = require("cors");
 require('dotenv').config();
 
 const app = express();
+const PORT = process.env.PORT;
 
 app.use(cors());
 app.use(express.json());
@@ -103,6 +104,6 @@ app.post("/undp", (req, res) => {
     });
 });
 
-app.listen(8000, () => {
-  console.log("server is running on port 8000");
+app.listen(PORT, () => {
+  console.log(`server is running on port ${PORT}`);
 });

@@ -1,5 +1,5 @@
 const fetchUNDPData = async (indicator) => {
-    const data = await fetch(`http://localhost:8000/undp`, {
+    const data = await fetch(`${process.env.BASE_URL}/undp`, {
       method: "POST",
       body: JSON.stringify({ indicator }),
       headers: { "Content-Type": "application/json" },

@@ -1,5 +1,5 @@
 const fetchWorldBankGroupData = async (dataset, indicator) => {
-  const data = await fetch(`http://localhost:8000/worldbankgroup`, {
+  const data = await fetch(`${process.env.BASE_URL}/worldbankgroup`, {
     method: "POST",
     body: JSON.stringify({ indicator, dataset }),
     headers: { "Content-Type": "application/json" },
