@@ -1,5 +1,5 @@
 # At a Glance: India and Other Emerging Economies. 
-## [Visit Website Here](https://emerging-economics.dreel.co/)
+[Visit Website Here](https://emerging-economics.dreel.co/)
 
 ## Project Overview
 
