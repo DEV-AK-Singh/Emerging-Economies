@@ -1,9 +1,9 @@
 import { BASE_URL } from "../Constant";
 
-const fetchWorldBankData = async (indicator) => {
+const fetchWorldBankData = async (indicator, isLiveData=false) => {
   const data = await fetch(`${BASE_URL}/worldbank`, {
     method: "POST",
-    body: JSON.stringify({ indicator }),
+    body: JSON.stringify({ indicator, isLiveData }),
     headers: { "Content-Type": "application/json" },
   })
     .then((res) => {

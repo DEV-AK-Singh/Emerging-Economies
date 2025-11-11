@@ -1,9 +1,9 @@
 import { BASE_URL } from "../Constant";
 
-const fetchUNDPData = async (indicator) => {
+const fetchUNDPData = async (indicator, isLiveData=false) => {
     const data = await fetch(`${BASE_URL}/undp`, {
       method: "POST",
-      body: JSON.stringify({ indicator }),
+      body: JSON.stringify({ indicator, isLiveData }),
       headers: { "Content-Type": "application/json" },
     })
       .then((res) => {

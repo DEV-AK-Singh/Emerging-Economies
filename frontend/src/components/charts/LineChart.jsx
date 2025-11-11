@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { LineChart } from "@mui/x-charts/LineChart";
+import Loader from "../main/Loader";
 
 export default function LineCharts({ data, customTitle, fixMargin }) {
   const [years, setYears] = useState(null);
@@ -159,7 +160,9 @@ export default function LineCharts({ data, customTitle, fixMargin }) {
           height={400}
         />
       ) : (
-        ""
+        <div className="flex items-center justify-center h-[400px]">
+          <Loader />
+        </div>
       )}
     </div>
   );

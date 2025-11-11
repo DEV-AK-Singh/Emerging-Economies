@@ -1,12 +1,13 @@
 import { BASE_URL } from "../Constant";
 
-const fetchIMFData = async (indicator) => {
+const fetchIMFData = async (indicator, isLiveData=false) => {
     const data = await fetch(`${BASE_URL}/imf`, {
       method: "POST",
-      body: JSON.stringify({ indicator }),
+      body: JSON.stringify({ indicator, isLiveData }),
       headers: { "Content-Type": "application/json" },
     })
       .then((res) => {
+        console.log(res);
         return res.json();
       })
       .then((json) => {
