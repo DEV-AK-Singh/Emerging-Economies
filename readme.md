@@ -2,8 +2,6 @@
 
 ## [Visit Website Here..](https://emerging-economics.dreel.co/)
 
-![Preview](Preview.png)
-
 ## Project Overview
 
 Under the guidance of Prof. Sanket Mohapatra (IIM Ahmedabad), we created the website **“At a Glance: India and Other Emerging Economies”** during our 3rd year college internship. This website compares a few key economic and financial indicators for selected emerging economies, including India. These indicators document the countries' economic performance, financial markets, financial access, and human development trends.
@@ -14,6 +12,10 @@ Under the guidance of Prof. Sanket Mohapatra (IIM Ahmedabad), we created the web
 - **Financial Markets:** Overview of stock market indices, bond markets, and other financial data.
 - **Financial Access:** Analysis of banking penetration, credit availability, and more.
 - **Human Development Trends:** Compare literacy rates, life expectancy, and other key indicators.
+
+## Previews
+
+![Preview](Preview.png)
 
 ## Technology Stack
 
