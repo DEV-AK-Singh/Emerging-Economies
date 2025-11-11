@@ -5,8 +5,8 @@ export default function Footer() {
     <>
       <footer className="bg-white">
         <div className="mx-auto max-w-screen-xl px-4 pt-16 sm:px-6 lg:px-8">
-          <div className="mx-auto max-w-md">
-            <strong className="block text-center text-xl font-bold text-gray-900 sm:text-3xl">
+          <div className="mx-auto max-w-md mb-16 sm:mb-24">
+            <strong className="block text-center text-2xl font-bold text-gray-900 sm:text-3xl">
               Want to discuss your next project with the latest tech?
             </strong>
 
@@ -142,9 +142,7 @@ export default function Footer() {
               </div>
 
               <p className="mt-8 text-left text-gray-500 lg:text-left lg:text-lg">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Praesentium natus quod eveniet aut perferendis distinctio iusto
-                repudiandae, provident velit earum?
+                This website compares a few key economic and financial indicators for selected emerging economies, including India. These indicators document the countries' economic performance, financial markets, financial access, and human development trends.
               </p>
             </div>
 

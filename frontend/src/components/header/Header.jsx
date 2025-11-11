@@ -55,7 +55,7 @@ export default function Header() {
                 </svg>
               </a>
               <a
-                href="https://github.com/ABHISHEK-SIN-GH"
+                href="https://github.com/DEV-AK-Singh/Emerging-Economies"
                 target="_blank"
                 className="inline-flex items-center justify-center gap-1.5 rounded-none border-red-600 border text-white px-5 py-3"
                 type="button"
