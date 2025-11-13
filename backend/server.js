@@ -33,6 +33,8 @@ app.post("/api/worldbank", (req, res) => {
   const Indicator4 = "NE.EXP.GNFS.ZS";
   const Indicator5 = "FS.AST.PRVT.GD.ZS";
 
+  console.log("worldbank: ", indicator, isLiveData);
+
   if (!isLiveData) {
     if (indicator == Indicator1) {
       res.send(Indicator1Data);
@@ -69,6 +71,8 @@ app.post("/api/worldbankgroup", (req, res) => {
   const dataset = req.body.dataset;
   const indicator = req.body.indicator;
   const isLiveData = req.body.isLiveData || false;
+
+  console.log("worldbankgroup: ", dataset, indicator, isLiveData);
 
   const Dataset1 = "IMF.CPI";
   const Indicator6 = "IMF.CPI.PCPI_PC_CP_A_PT";
@@ -115,6 +119,8 @@ app.post("/api/imf", (req, res) => {
   const indicator = req.body.indicator;
   const isLiveData = req.body.isLiveData || false;
 
+  console.log("imf: ", indicator, isLiveData);
+
   const Indicator10 = "GGXCNL_G01_GDP_PT";
   const Indicator11 = "G_XWDG_G01_GDP_PT";
 
@@ -152,6 +158,9 @@ app.post("/api/imf", (req, res) => {
 app.post("/api/undp", (req, res) => {
   const indicator = req.body.indicator;
   const isLiveData = req.body.isLiveData || false; 
+
+  console.log("undp: ", indicator, isLiveData);
+
   if (!isLiveData) {
     if (indicator == "hdi") {
       res.send(Indicator12Data);
