@@ -171,7 +171,7 @@ export default function Graphs() {
 
   return (
     <div>
-      <div className="fixed right-4 bottom-4 bg-white/70 py-3 px-4 rounded-full border border-black">
+      <div className="fixed right-4 bottom-4 bg-white/70 py-3 px-4 rounded-full border border-black z-50">
         <div>
           <Switch checked={liveData} onChange={setLiveData} />
         </div>

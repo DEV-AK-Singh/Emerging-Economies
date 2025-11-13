@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Switch({ checked, onChange, className = "" }) {
   return (
-    <div className="flex justify-center items-center relative">
+    <div className="flex justify-center items-center relative z-50">
       <h1 className="text-center me-2 font-bold">
         Live Data : 
       </h1>

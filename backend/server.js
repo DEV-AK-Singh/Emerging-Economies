@@ -23,7 +23,7 @@ app.use(express.json());
 
 app.use("/", express.static("dist"));
 
-app.post("/worldbank", (req, res) => {
+app.post("/api/worldbank", (req, res) => {
   const indicator = req.body.indicator;
   const isLiveData = req.body.isLiveData || false;
 
@@ -65,7 +65,7 @@ app.post("/worldbank", (req, res) => {
   }
 });
 
-app.post("/worldbankgroup", (req, res) => {
+app.post("/api/worldbankgroup", (req, res) => {
   const dataset = req.body.dataset;
   const indicator = req.body.indicator;
   const isLiveData = req.body.isLiveData || false;
@@ -111,7 +111,7 @@ app.post("/worldbankgroup", (req, res) => {
   }
 });
 
-app.post("/imf", (req, res) => {
+app.post("/api/imf", (req, res) => {
   const indicator = req.body.indicator;
   const isLiveData = req.body.isLiveData || false;
 
@@ -149,7 +149,7 @@ app.post("/imf", (req, res) => {
   }
 });
 
-app.post("/undp", (req, res) => {
+app.post("/api/undp", (req, res) => {
   const indicator = req.body.indicator;
   const isLiveData = req.body.isLiveData || false; 
   if (!isLiveData) {
@@ -177,6 +177,13 @@ app.post("/undp", (req, res) => {
         res.send({ code: 0, response: err });
       });
   }
+});
+
+app.get("/api/health", (req, res) => {
+  res.send({
+    code: 1,
+    response: "Health check successful",
+  });
 });
 
 app.listen(PORT, () => {
