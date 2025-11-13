@@ -311,25 +311,10 @@ app.post("/api/undp", async (req, res) => {
 });
 
 app.get("/api/health", async (req, res) => {
-  try {
-    // Test external API connectivity
-    const testResponse = await apiClient.get('http://api.worldbank.org/v2/country/ind?format=json', {
-      timeout: 10000
-    });
-
-    res.send({
-      code: 1,
-      response: "Health check successful",
-      externalAPIs: testResponse.status === 200 ? "accessible" : "limited"
-    });
-  } catch (error) {
-    res.send({
-      code: 1,
-      response: "Health check successful (external APIs unavailable)",
-      externalAPIs: "unavailable",
-      error: error.message
-    });
-  }
+  res.json({
+    status: "ok",
+    message: "Health check successful"
+  })
 });
 
 // Network test endpoint
