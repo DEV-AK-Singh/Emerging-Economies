@@ -54,14 +54,17 @@ app.post("/api/worldbank", (req, res) => {
     const currentYear = new Date().getFullYear();
     const date = `2014:${currentYear}`;
     const url = `http://api.worldbank.org/v2/country/${countries}/indicator/${indicator}?date=${date}&format=json&per_page=2000`;
+    console.log(url);
     fetch(url)
       .then((response) => {
         return response.json();
       })
       .then((json) => {
+        console.log(json);
         res.send({ code: 1, response: json });
       })
       .catch((err) => {
+        console.log(err);
         res.send({ code: 0, response: err });
       });
   }
@@ -102,14 +105,17 @@ app.post("/api/worldbankgroup", (req, res) => {
     const years = Array.from({ length: currentYear - 2014 + 1 }, (_, i) => 2014 + i);
     const dates = years.join(",");
     const url = `https://datacatalogapi.worldbank.org/dexapps/efi/data?datasetId=${dataset}&indicatorIds=${indicator}&countryCodes=${countries}&years=${dates}`;
+    console.log(url);
     fetch(url)
       .then((response) => {
         return response.json();
       })
       .then((json) => {
+        console.log(json);
         res.send({ code: 1, response: json });
       })
       .catch((err) => {
+        console.log(err);
         res.send({ code: 0, response: err });
       });
   }
@@ -139,6 +145,7 @@ app.post("/api/imf", (req, res) => {
     const years = Array.from({ length: currentYear - 2014 + 1 }, (_, i) => 2014 + i);
     const dates = years.join(",");
     const url = `https://www.imf.org/external/datamapper/api/v1/${indicator}/${countries}/?periods=${dates}`;
+    console.log(url);
     fetch(url, {
       method: "GET",
       headers: { "Content-Type": "application/json" },
@@ -147,9 +154,11 @@ app.post("/api/imf", (req, res) => {
         return response.json();
       })
       .then((json) => {
+        console.log(json);
         res.send({ code: 1, response: json });
       })
       .catch((err) => {
+        console.log(err);
         res.send({ code: 0, response: err });
       });
   }
@@ -175,14 +184,17 @@ app.post("/api/undp", (req, res) => {
     const dates = years.join(",");
     const API_KEY = process.env.UNDP_API_KEY;
     const url = `https://hdrdata.org/api/CompositeIndices/query?apikey=${API_KEY}&countryOrAggregation=${countries}&year=${dates}&indicator=${indicator}`;
+    console.log(url);
     fetch(url)
       .then((response) => {
         return response.json();
       })
       .then((json) => {
+        console.log(json);
         res.send({ code: 1, response: json });
       })
       .catch((err) => {
+        console.log(err);
         res.send({ code: 0, response: err });
       });
   }
